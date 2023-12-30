@@ -2,7 +2,7 @@
 
 Oculus Touch button prompt mods for Praydog's UEVR Injector.  These mods will update in-game button prompts to match Oculus Touch controllers but do not change the gamepad artwork in the main menu. 
 
-* The Aliens: Fireteam Elite mod requires Unreal Mod Unlocker to prevent online matchmaking from being disabled.
+* The Aliens: Fireteam Elite mod requires [**Unreal Mod Unlocker Basic**](https://illusory.dev/) as a hard requirement to prevent online matchmaking from being disabled.
 * The Martha Is Dead mod also fixes UI black border issues.
 
 ## Installation
