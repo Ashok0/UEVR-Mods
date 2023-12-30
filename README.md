@@ -7,7 +7,7 @@ Oculus Touch button prompt mods for Praydog's UEVR Injector.  These mods will up
 
 ## Installation
 
-1) Download a mod from the Releases page.
+1) Download a mod from the [**Releases**](https://github.com/Ashok0/UEVR-Mods/releases) page.
 2) Extract the contents to C:\Program Files (x86)\Steam\SteamApps\Common (For Gampass games, extract the PAK file and place it in the "Paks" directory in your game folder)
 3) Inject with UEVR and play the game with Oculus Touch button prompts!
 
